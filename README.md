@@ -1,5 +1,8 @@
 # kubectl
 
+[![Docker Stars](https://img.shields.io/docker/automated/radeklos/kubectl.svg)](https://hub.docker.com/r/radeklos/kubectl/)
+[![Docker Stars](https://img.shields.io/docker/build/radeklos/kubectl.svg)](https://hub.docker.com/r/radeklos/kubectl/)
+
 Kubect in docker
 
 
